@@ -15,4 +15,7 @@ public class Message {
         this.username = username;
         this.text = text;
     }
+
+    public Message() {
+    }
 }
